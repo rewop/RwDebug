@@ -1,0 +1,37 @@
+{
+    "name": "RwDebug",
+    "preferGlobal": false,
+    "version": "0.1.0",
+    "author": "Simone Potenza <simone.potenza@gmail.com>",
+    "description": "Simple utility functions for debugging purpose",
+    "contributors": [
+    ],
+    "bin": {
+    },
+    "scripts": {
+        "test": "make test"
+    },
+    "main": "./lib/debug.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rewop/RwDebug.git"
+    },
+    "keywords": [
+        "debug",
+        "trace",
+        "log"
+    ],
+    "dependencies" : {
+    },
+    "analyze": false,
+    "devDependencies": {
+        "chai": "*",
+        "mocha": "*"
+    },
+    "bundledDependencies": [
+    ],
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.6"
+    }
+}
