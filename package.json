@@ -11,7 +11,7 @@
     "scripts": {
         "test": "make test"
     },
-    "main": "./lib/Debug.js",
+    "main": "debug",
     "repository": {
         "type": "git",
         "url": "https://github.com/rewop/RwDebug.git"
